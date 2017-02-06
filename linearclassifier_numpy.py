@@ -1,4 +1,4 @@
-# implantation from scratch off a linear classifier
+# implementation from scratch of a linear classifier
 import numpy as np
 
 
